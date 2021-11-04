@@ -1,4 +1,4 @@
-# csc648 Repository
+# csc648 Repository Final Project
 SFSU TradeMart: http://54.176.241.134/
 (This AWS instance is no longer up, an instance can be spun up on demand email Ricardo Carretero higgsbosonseeker@gmail.com)
 
